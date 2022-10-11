@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216487634476",
+    "project_id": "react-firebase-auth-97165",
+    "storage_bucket": "react-firebase-auth-97165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216487634476:android:93c5845c719b0eeae71389",
+        "android_client_info": {
+          "package_name": "com.rnclifirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216487634476-f1mdcuc8vnequd6gp3osb6jil3uebpkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsH1h9mcTNICHODIDadVPJRh1K5WDlrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216487634476-f1mdcuc8vnequd6gp3osb6jil3uebpkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
